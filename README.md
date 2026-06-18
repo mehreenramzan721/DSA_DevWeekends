@@ -4,3 +4,4 @@ finalValueAfterOperations: https://leetcode.com/problems/final-value-of-variable
 sortedSquares : https://leetcode.com/problems/squares-of-a-sorted-array/
 getConcatenation:  https://leetcode.com/problems/concatenation-of-array/description/
 goodPairs: https://leetcode.com/problems/number-of-good-pairs/description/
+shuffleArray: https://leetcode.com/problems/shuffle-the-array/description/
