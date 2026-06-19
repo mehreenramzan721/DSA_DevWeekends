@@ -6,3 +6,5 @@ getConcatenation:  https://leetcode.com/problems/concatenation-of-array/descript
 goodPairs: https://leetcode.com/problems/number-of-good-pairs/description/
 shuffleArray: https://leetcode.com/problems/shuffle-the-array/description/
 moveZeroes: https://leetcode.com/problems/move-zeroes/description/
+maxConsecutives: https://leetcode.com/problems/max-consecutive-ones/
+rotateArray: https://leetcode.com/problems/rotate-array/
