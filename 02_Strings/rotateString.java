@@ -7,7 +7,7 @@ A **shift** on `s` consists of moving the leftmost character of `s` to the
 - For example, if `s = "abcde"`, then it will be `"bcdea"` after one shift.
 
 */
-class Solution {
+class rotateString {
     public boolean rotateString(String s, String goal) {
         // brute force rotation simulation;
         // if (s.length() != goal.length()) 
